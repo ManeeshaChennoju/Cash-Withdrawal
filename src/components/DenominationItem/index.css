@@ -1,0 +1,16 @@
+/* Write your CSS here */
+
+.buttons_con {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+
+.button {
+  padding-left: 20px;
+  padding-right: 20px;
+  color: white;
+  border: 2px solid white;
+  background-color: transparent;
+}
